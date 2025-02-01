@@ -6,4 +6,4 @@ Windows: https://www.gyan.dev/ffmpeg/builds/ <br>
 MacOS: https://evermeet.cx/ffmpeg/ <br>
 Linux: https://johnvansickle.com/ffmpeg/ <br> 
 
-We do not charge for the redistribution of these files, their download from any source or for their use, and as such our usage and redistribution of FFmpeg binaries both this repository and within AnimeEffects itself does not constitute commercial use.  
+We do not charge for the redistribution of these files, their download from any source or for their use, and as such our usage and redistribution of FFmpeg binaries for both this repository and AnimeEffects' does not constitute commercial use.  
